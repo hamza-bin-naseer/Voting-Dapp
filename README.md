@@ -2,7 +2,7 @@
 ### 🖼️ Screenshots
 
 #### 🔐 Login Page
-![Login Page](./assets/login.png)
+![Login Page](./assets/Login.png)
 
 #### ✅ After Login Page
 ![After Login Page](./assets/AfterLogin.png)
